@@ -5,7 +5,7 @@ frontend-nanodegree-MyReads-Project
  [Project Overview](#about)
  [TL;DR](#quickstart)
  [Attributions](#attributions)
-
+ [Notes](#notes)
 
 ## Project Overview 
 
@@ -24,3 +24,9 @@ To get started right away:
 In addition to the Udacity Building With React coursework, this project was created referencing the React library. https://reactjs.org/tutorial/tutorial.html
 
 Many thanks to Maeva NAP for her excellent walk-through video on this assignment. It was consulted in the completion of this project. https://www.youtube.com/watch?v=i6L2jLHV9j8
+
+## Notes
+
+The full history of this project can be found in the original repository on GitHub. 
+
+Grow With Google- My-Reads https://github.com/jubilantdeenie/grow-with-google/tree/master/my-reads
